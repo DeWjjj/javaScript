@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0caf824e-0104-4279-a742-e1f6755a5d0c" name="默认的" comment="" />
+    <list default="true" id="0caf824e-0104-4279-a742-e1f6755a5d0c" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/${}.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/append.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boolean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capitalize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lineString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/null.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/number.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parseNum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tagFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zipTag.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,12 +34,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lv48E4pLTyBOIJVrBaZUaHCSAn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -51,13 +68,37 @@
       <recent name="C:\Users\dewjj\WebstormProjects\untitled\preload" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.map.js">
     <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="9229" restartOnDisconnect="true">
       <method v="2" />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" singleton="false">
       <method v="2" />
     </configuration>
+    <configuration name="append.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/append.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="capitalize.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/capitalize.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="map.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/map.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="tagFunction.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/tagFunction.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="zipTag.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/zipTag.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.map.js" />
+        <item itemvalue="Node.js.zipTag.js" />
+        <item itemvalue="Node.js.tagFunction.js" />
+        <item itemvalue="Node.js.append.js" />
+        <item itemvalue="Node.js.capitalize.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -81,6 +122,12 @@
       <workItem from="1609488284864" duration="23000" />
       <workItem from="1609488541059" duration="488000" />
       <workItem from="1609489040957" duration="442000" />
+      <workItem from="1609511935374" duration="160000" />
+      <workItem from="1609512105374" duration="139000" />
+      <workItem from="1609512247715" duration="153000" />
+      <workItem from="1609518743424" duration="3931000" />
+      <workItem from="1609590912425" duration="4407000" />
+      <workItem from="1609626329961" duration="205000" />
     </task>
     <servers />
   </component>
@@ -94,6 +141,21 @@
         <option value="$PROJECT_DIR$/inference.js" />
       </list>
     </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
