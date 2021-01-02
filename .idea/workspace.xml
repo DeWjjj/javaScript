@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0caf824e-0104-4279-a742-e1f6755a5d0c" name="默认的" comment="Summary">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021_1_3_6_30____.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/_2021_1_3_6_30____.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unicode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map.js" beforeDir="false" afterPath="$PROJECT_DIR$/map.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +59,7 @@
       <recent name="C:\Users\dewjj\WebstormProjects\untitled\preload" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.map.js">
+  <component name="RunManager" selected="Node.js.unicode.js">
     <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="9229" restartOnDisconnect="true">
       <method v="2" />
     </configuration>
@@ -67,13 +69,13 @@
     <configuration name="append.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/append.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="capitalize.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/capitalize.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
     <configuration name="map.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/map.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="tagFunction.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/tagFunction.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="unicode.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/unicode.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="zipTag.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/zipTag.js" working-dir="$PROJECT_DIR$">
@@ -81,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.unicode.js" />
         <item itemvalue="Node.js.map.js" />
         <item itemvalue="Node.js.zipTag.js" />
         <item itemvalue="Node.js.tagFunction.js" />
         <item itemvalue="Node.js.append.js" />
-        <item itemvalue="Node.js.capitalize.js" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +118,7 @@
       <workItem from="1609512247715" duration="153000" />
       <workItem from="1609518743424" duration="3931000" />
       <workItem from="1609590912425" duration="4407000" />
-      <workItem from="1609626329961" duration="514000" />
+      <workItem from="1609626329961" duration="1214000" />
     </task>
     <task id="LOCAL-00001" summary="Summary">
       <created>1609626662289</created>
