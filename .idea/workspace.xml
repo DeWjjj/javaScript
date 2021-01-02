@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0caf824e-0104-4279-a742-e1f6755a5d0c" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/${}.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/append.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boolean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/capitalize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lineString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/null.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/number.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parseNum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tagFunction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipTag.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0caf824e-0104-4279-a742-e1f6755a5d0c" name="默认的" comment="Summary">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021_1_3_6_30____.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/_2021_1_3_6_30____.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lv48E4pLTyBOIJVrBaZUaHCSAn" />
@@ -127,8 +116,16 @@
       <workItem from="1609512247715" duration="153000" />
       <workItem from="1609518743424" duration="3931000" />
       <workItem from="1609590912425" duration="4407000" />
-      <workItem from="1609626329961" duration="205000" />
+      <workItem from="1609626329961" duration="514000" />
     </task>
+    <task id="LOCAL-00001" summary="Summary">
+      <created>1609626662289</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609626662289</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,7 +144,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -156,6 +165,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Summary" />
+    <option name="LAST_COMMIT_MESSAGE" value="Summary" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
