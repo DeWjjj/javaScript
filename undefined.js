@@ -7,4 +7,4 @@ if (!message) {
 }
 // if (age) {
 //     console.log("From if (age).")
-// } //This if will is an error.a
+// } //This if will is an error.
