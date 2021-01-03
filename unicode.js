@@ -11,3 +11,7 @@ second line`);
 console.log(String.raw`first line\nsecond line`);
 //first line\nsecond line
 
+console.log(String.raw`first line
+second line`);
+//first line
+//second line

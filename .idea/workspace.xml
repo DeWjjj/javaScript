@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0caf824e-0104-4279-a742-e1f6755a5d0c" name="默认的" comment="Summary">
-      <change afterPath="$PROJECT_DIR$/unicode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exGlobalSymbol.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/findGlobalSymbol.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objectDefineProperty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printRaw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/symbol.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/symbolOwnPropertySymbols.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/map.js" beforeDir="false" afterPath="$PROJECT_DIR$/map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unicode.js" beforeDir="false" afterPath="$PROJECT_DIR$/unicode.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,35 +64,35 @@
       <recent name="C:\Users\dewjj\WebstormProjects\untitled\preload" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.unicode.js">
+  <component name="RunManager" selected="Node.js.objectDefineProperty.js">
     <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="9229" restartOnDisconnect="true">
       <method v="2" />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" singleton="false">
       <method v="2" />
     </configuration>
-    <configuration name="append.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/append.js" working-dir="$PROJECT_DIR$">
+    <configuration name="exGlobalSymbol.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exGlobalSymbol.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="map.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/map.js" working-dir="$PROJECT_DIR$">
+    <configuration name="findGlobalSymbol.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/findGlobalSymbol.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="tagFunction.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/tagFunction.js" working-dir="$PROJECT_DIR$">
+    <configuration name="objectDefineProperty.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/objectDefineProperty.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="unicode.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/unicode.js" working-dir="$PROJECT_DIR$">
+    <configuration name="symbolOwnPropertySymbols.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/symbolOwnPropertySymbols.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="zipTag.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/zipTag.js" working-dir="$PROJECT_DIR$">
+    <configuration name="symbol.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/symbol.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.unicode.js" />
-        <item itemvalue="Node.js.map.js" />
-        <item itemvalue="Node.js.zipTag.js" />
-        <item itemvalue="Node.js.tagFunction.js" />
-        <item itemvalue="Node.js.append.js" />
+        <item itemvalue="Node.js.objectDefineProperty.js" />
+        <item itemvalue="Node.js.symbolOwnPropertySymbols.js" />
+        <item itemvalue="Node.js.findGlobalSymbol.js" />
+        <item itemvalue="Node.js.symbol.js" />
+        <item itemvalue="Node.js.exGlobalSymbol.js" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +123,7 @@
       <workItem from="1609512247715" duration="153000" />
       <workItem from="1609518743424" duration="3931000" />
       <workItem from="1609590912425" duration="4407000" />
-      <workItem from="1609626329961" duration="1214000" />
+      <workItem from="1609626329961" duration="9046000" />
     </task>
     <task id="LOCAL-00001" summary="Summary">
       <created>1609626662289</created>
