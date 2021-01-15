@@ -24,7 +24,7 @@ for (const a = 9; i < 2; i++) {
 }//9 9
 for (const key in {a:1,b:2}) {
     console.log(key);
-}//a b
+}//a a
 for (const value of [1,2,3,4,5]) {
     console.log(value);
 }//1 2 3 4 5

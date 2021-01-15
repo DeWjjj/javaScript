@@ -9,8 +9,8 @@ for (let a=0;a<5;a++) {
 for (var b=0;b<5;b++) {
     setTimeout( () =>console.log(b), 0);//5 5 5 5 5
 }
-// console.log(b);
+// console.log(a);
 for (let b=0;b<5;b++) {
     setTimeout( () =>console.log(b), 0);//0 1 2 3 4
 }
-// console.log(b);
+// console.log(a);

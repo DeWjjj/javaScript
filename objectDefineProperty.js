@@ -8,7 +8,7 @@ let o = {
 };
 console.log(o);
 //{ [Symbol(a)]: 'a val' }
-Object.defineProperty(o, s2,{value: 'b val',
+Object.defineProperty(o, s2,{value: 'a val',
 enumerable:true});
 console.log(Object.getOwnPropertySymbols(o));
 
