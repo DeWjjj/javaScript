@@ -1,6 +1,8 @@
 //diffNum
 let intNum=10;
+console.log(intNum);
 let octalNum=0o70; //56
+console.log(octalNum);
 let hexNum1=0xA; //10
 let hexNum2=0x1f; //31
 console.log(hexNum1-hexNum2); //-21

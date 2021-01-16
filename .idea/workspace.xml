@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0caf824e-0104-4279-a742-e1f6755a5d0c" name="默认的" comment="Summary">
-      <change afterPath="$PROJECT_DIR$/find.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/match.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promiseResolve.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/symbolGetOwnProperty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/symbolHasInstance.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021_1_3_6_30____.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/_2021_1_3_6_30____.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/const.js" beforeDir="false" afterPath="$PROJECT_DIR$/const.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forLet.js" beforeDir="false" afterPath="$PROJECT_DIR$/forLet.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objectDefineProperty.js" beforeDir="false" afterPath="$PROJECT_DIR$/objectDefineProperty.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symbolOwnPropertySymbols.js" beforeDir="false" afterPath="$PROJECT_DIR$/symbolOwnPropertySymbols.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/number.js" beforeDir="false" afterPath="$PROJECT_DIR$/number.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parseNum.js" beforeDir="false" afterPath="$PROJECT_DIR$/parseNum.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +60,7 @@
       <recent name="C:\Users\dewjj\WebstormProjects\untitled\preload" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.match.js">
+  <component name="RunManager" selected="Node.js.parseNum.js">
     <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="9229" restartOnDisconnect="true">
       <method v="2" />
     </configuration>
@@ -79,22 +73,22 @@
     <configuration name="objectDefineProperty.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/objectDefineProperty.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="parseNum.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/parseNum.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="symbolGetOwnProperty.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/symbolGetOwnProperty.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="symbolHasInstance.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/symbolHasInstance.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="symbolOwnPropertySymbols.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/symbolOwnPropertySymbols.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.parseNum.js" />
         <item itemvalue="Node.js.match.js" />
         <item itemvalue="Node.js.symbolHasInstance.js" />
         <item itemvalue="Node.js.symbolGetOwnProperty.js" />
         <item itemvalue="Node.js.objectDefineProperty.js" />
-        <item itemvalue="Node.js.symbolOwnPropertySymbols.js" />
       </list>
     </recent_temporary>
   </component>
@@ -129,6 +123,7 @@
       <workItem from="1609767346190" duration="1258000" />
       <workItem from="1609858296247" duration="989000" />
       <workItem from="1609993649332" duration="1390000" />
+      <workItem from="1610808445336" duration="281000" />
     </task>
     <task id="LOCAL-00001" summary="Summary">
       <created>1609626662289</created>

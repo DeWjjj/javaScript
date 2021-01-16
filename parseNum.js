@@ -11,3 +11,10 @@ let num6 = parseInt("OxAF",16); //175
 let num7 = parseInt("AF",16); //175
 //Example2:parseFloat
 let num8 = parseFloat("22.22.22"); //22.22
+console.log(num3,num4,num5,num6,num7,num8)
+
+console.log(Math.trunc(3.5)); //3
+
+console.log(Math.sign(100)); //1
+console.log(Math.sign(0)); //0
+console.log(Math.sign(-2000)); //-1
