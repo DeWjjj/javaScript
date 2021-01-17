@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>importAs</title>
+    <script type ="module">
+        import {name,log} from "./module1.js";
+        log(); //DeWjjj from module1
+        import {default as module2} from "./module2.js";
+        module2.log(); //DeWjjj from module2
+        import m2 from "./module2.js"
+        m2.log();
+        import {name as module3name,log as module3log} from "./module3.js";
+        module3log(); //DeWjjj from module3
+    </script>
+</head>
+<body>
+
+</body>
+</html>
