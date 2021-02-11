@@ -1,0 +1,26 @@
+{
+  "include": [ //编译
+    "./src/*",
+    "*"
+  ],
+//  "exclude": [ //不编译
+//    "./app.ts"
+//  ],
+  "compilerOptions": {
+    "target": "es2016",//target_edition
+    "module": "es6",
+//    "lib": []
+    "outDir": "./tsFile",
+//    "outFile": "./tsFile/full.js",
+    "allowJs": true,
+    "checkJs": true,
+    "removeComments": true, //removeComments
+//    "noEmit": true, //不编译出文件
+    "noEmitOnError": true, //如果有错误，不编译出文件
+    "alwaysStrict": true,
+    "noImplicitAny": false, //不允许出现隐式的Any类型
+    "noImplicitThis": false, //不允许不明确的this
+    "strictNullChecks": true,
+    "strict": false, //所有严格检查的总开关
+  }
+}

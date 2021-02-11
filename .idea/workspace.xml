@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="005bf8e9-2c2b-4bda-9bf2-52c9e3a84d34" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/typeScript/part1/0hello.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeScript/part1/1basic.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeScript/part1/2types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeScript/part1/2types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeScript/part1/3object.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeScript/part2/app.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeScript/part2/log.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeScript/part2/m.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeScript/part2/src/src.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeScript/part2/tsFile/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeScript/part2/tsFile/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeScript/part2/tsFile/m.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeScript/part2/tsFile/src/src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeScript/part2/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeScript/part3/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeScript/part3/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeScript/part3/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeScript/part3/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ES7incluedsQuadratic.js" beforeDir="false" afterPath="$PROJECT_DIR$/ES7incluedsQuadratic.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +32,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="TypeScript File" />
+        <option value="tsconfig.json" />
       </list>
     </option>
   </component>
@@ -36,20 +57,50 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.默认语言" />
+    <property name="ts.external.directory.path" value="C:\javaScript\typeScript\part3\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="ES7incluedsQuadratic.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ES7incluedsQuadratic.js" working-dir="$PROJECT_DIR$">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\javaScript\typeScript\part1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.app.js (1)">
+    <configuration name="1basic.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/typeScript/part1/1basic.js" working-dir="$PROJECT_DIR$/typeScript">
+      <method v="2" />
+    </configuration>
+    <configuration name="2types.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/typeScript/part1/2types.js" working-dir="$PROJECT_DIR$/typeScript">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/typeScript/part2/tsFile/app.js" working-dir="$PROJECT_DIR$/typeScript/part2/tsFile">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/typeScript/part2/app.js" working-dir="$PROJECT_DIR$/typeScript/part2">
+      <method v="2" />
+    </configuration>
+    <configuration name="full.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/typeScript/part2/tsFile/full.js" working-dir="$PROJECT_DIR$/typeScript/part2/tsFile">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.ES7incluedsQuadratic.js" />
+        <item itemvalue="Node.js.app.js (1)" />
+        <item itemvalue="Node.js.full.js" />
+        <item itemvalue="Node.js.app.js" />
+        <item itemvalue="Node.js.2types.js" />
+        <item itemvalue="Node.js.1basic.js" />
       </list>
     </recent_temporary>
   </component>
@@ -64,7 +115,25 @@
       <workItem from="1610889769506" duration="766000" />
       <workItem from="1610890878441" duration="172000" />
       <workItem from="1610891058514" duration="159000" />
+      <workItem from="1610891227426" duration="96000" />
+      <workItem from="1610891325892" duration="739000" />
+      <workItem from="1610957774730" duration="3998000" />
+      <workItem from="1610977606788" duration="4575000" />
+      <workItem from="1610983734416" duration="668000" />
+      <workItem from="1610984416207" duration="421000" />
+      <workItem from="1610984846389" duration="1433000" />
+      <workItem from="1612019302350" duration="337000" />
+      <workItem from="1613038824726" duration="14000" />
+      <workItem from="1613038889955" duration="21000" />
     </task>
+    <task id="LOCAL-00001" summary="Summary">
+      <created>1610891244731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610891244731</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,9 +141,13 @@
     <option name="exactExcludedFiles">
       <list>
         <option value="$PROJECT_DIR$/hello.js" />
+        <option value="$PROJECT_DIR$/interface.js" />
         <option value="$PROJECT_DIR$/class.js" />
         <option value="$PROJECT_DIR$/inference.js" />
-        <option value="$PROJECT_DIR$/interface.js" />
+        <option value="$PROJECT_DIR$/typeScript/part2/index.js" />
+        <option value="$PROJECT_DIR$/typeScript/part2/src/src.js" />
+        <option value="$PROJECT_DIR$/typeScript/part2/m.js" />
+        <option value="$PROJECT_DIR$/typeScript/part2/app.js" />
       </list>
     </option>
   </component>
@@ -89,5 +162,14 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Summary" />
+    <option name="LAST_COMMIT_MESSAGE" value="Summary" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
